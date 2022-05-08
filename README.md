@@ -7,11 +7,13 @@ Ich bin ein Fullstack Developer.
 Langs die ich kann:
    C++
    C#
-   C
+   ein kleines bisschen C
+   PHP
    Python
+   SQL
    JavaScript
    
 Ich arbeite meistens mit C#, wenn ich einen Discord Bot mache. (:
 
 Wenn ihr mich kontaktieren wollt:
-   http://tommy31.social/
+   http://web.tommy31.social/
