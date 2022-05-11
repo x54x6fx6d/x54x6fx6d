@@ -16,4 +16,4 @@ Langs die ich kann:
 Ich arbeite meistens mit C#, wenn ich einen Discord Bot mache. (:
 
 Wenn ihr mich kontaktieren wollt:
-   http://web.tommy31.social/
+   https://web.tommy31.social/
