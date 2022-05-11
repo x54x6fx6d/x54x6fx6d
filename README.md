@@ -5,13 +5,13 @@ Willkommen auf meiner GitHub Seite!
 Ich bin ein Fullstack Developer.
 
 # Languages die ich kann:
-   _ C++
-   _ C#
-   _ ein kleines bisschen C
-   _ PHP
-   _ Python
-   _ SQL
-   _ JavaScript
+   C++ <br>
+   C# <br>
+   ein kleines bisschen C <br>
+   PHP <br>
+   Python <br>
+   SQL <br>
+   JavaScript <br>
    
 Ich arbeite meistens mit C#, wenn ich einen Discord Bot mache. (:
 
