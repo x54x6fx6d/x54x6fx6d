@@ -4,7 +4,7 @@ Willkommen auf meiner GitHub Seite!
 
 Ich bin ein Fullstack Developer.
 
-Langs die ich kann:
+# Langs die ich kann:
    C++
    C#
    ein kleines bisschen C
