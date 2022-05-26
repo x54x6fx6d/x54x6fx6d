@@ -16,4 +16,4 @@ Ich bin ein Fullstack Developer.
 Ich arbeite meistens mit C#, wenn ich einen Discord Bot mache. (:
 
 Wenn ihr mich kontaktieren wollt:
-   https://web.tommy31.social/
+   https://tommy31.social/
