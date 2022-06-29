@@ -4,6 +4,8 @@ Willkommen auf meiner GitHub Seite!
 
 Ich bin ein Fullstack Developer.
 
+<hr>
+
 # Languages die ich kann:
    C++ <br>
    C# <br>
@@ -13,14 +15,18 @@ Ich bin ein Fullstack Developer.
    SQL <br>
    JavaScript <br>
    
-   <a href="https://discord.com/users/959485503080656916">
-				<img src="https://discord.c99.nl/widget/theme-1/959485503080656916.png" alt="Discord" />
-				<br>
-	</a>
+   <hr>
    
-
+<a href="https://discord.com/users/959485503080656916">
+	<img src="https://discord.c99.nl/widget/theme-1/959485503080656916.png" alt="Discord" />
+	<br>
+</a>
+   
+<hr>
 
 ![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d&hide=shell)
+
+<hr>
    
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
