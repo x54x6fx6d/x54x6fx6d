@@ -13,6 +13,11 @@ Ich bin ein Fullstack Developer.
    SQL <br>
    JavaScript <br>
    
+   <a href="https://discord.com/users/959485503080656916">
+				<img src="https://discord.c99.nl/widget/theme-1/959485503080656916.png" alt="Discord" />
+				<br>
+	</a>
+   
 
 
 ![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d&hide=shell)
