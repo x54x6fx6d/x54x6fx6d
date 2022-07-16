@@ -17,8 +17,8 @@ Ich bin ein Fullstack Developer.
    
    <hr>
    
-<a href="https://discord.com/users/959485503080656916">
-	<img src="https://discord.c99.nl/widget/theme-1/959485503080656916.png" alt="Discord" />
+<a href="https://discord.com/users/907010196969246802">
+	<img src="https://discord.c99.nl/widget/theme-1/907010196969246802.png" alt="Discord" />
 	<br>
 </a>
    
