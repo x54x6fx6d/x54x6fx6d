@@ -6,7 +6,7 @@ Ich bin ein Fullstack Developer.
 
 <hr>
 
-# Languages die ich kann:
+# Scripting-/ Programmiersprachen die ich kann:
    C++ <br>
    C# <br>
    ein kleines bisschen C <br>
