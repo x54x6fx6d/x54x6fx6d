@@ -5,18 +5,7 @@ Willkommen auf meiner GitHub Seite!
 Ich bin ein Fullstack Developer.
 
 <hr>
-
-# Scripting-/ Programmiersprachen die ich kann:
-   C++ <br>
-   C# <br>
-   ein kleines bisschen C <br>
-   PHP <br>
-   Python <br>
-   SQL <br>
-   JavaScript <br>
-   
-   <hr>
-   
+  
 <a href="https://discord.com/users/907010196969246802">
 	<img src="https://discord.c99.nl/widget/theme-3/907010196969246802.png" alt="Discord" />
 	<br>
@@ -27,7 +16,20 @@ Ich bin ein Fullstack Developer.
 ![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d&hide=shell)
 
 <hr>
-   
+
+ <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+ <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+
+
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
