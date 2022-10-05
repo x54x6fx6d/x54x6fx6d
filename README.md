@@ -13,7 +13,7 @@ Ich bin ein Fullstack Developer.
    
 <hr>
 
-![stats_Used languages from Github](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d&hide=shell)
+[![x54x6fx6d's GitHub stats](https://github-readme-stats.vercel.app/api?username=x54x6fx6d)](https://github.com/x54x6fx6d/github-readme-stats)
 
 <hr>
 
