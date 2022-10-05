@@ -17,6 +17,10 @@ Ich bin ein Fullstack Developer.
 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d)](https://github.com/x54x6fx6d/github-readme-stats)
+
+<hr>
+
  <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
  <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
