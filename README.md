@@ -20,7 +20,6 @@ Ich bin ein Fullstack Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d)](https://github.com/x54x6fx6d/github-readme-stats)
 
 <hr>
-
  <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
  <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
@@ -30,6 +29,7 @@ Ich bin ein Fullstack Developer.
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_clion.svg" alt="clion" style="vertical-align:top; margin:6px 4px">
 
 
 
