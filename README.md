@@ -29,7 +29,7 @@ Ich bin ein Fullstack Developer.
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_clion.svg" alt="clion" style="vertical-align:top; margin:6px 4px">
+<img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_clion.svg" alt="clion" style="vertical-align:top; margin:6px 4px"> \
 
 
 
