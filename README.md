@@ -22,7 +22,8 @@ Mehr gibt es da glaube ich auch nicht zu sagen...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x54x6fx6d)](https://github.com/x54x6fx6d/github-readme-stats)
 
 <hr>
- <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+<div>
+	 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
  <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -30,8 +31,11 @@ Mehr gibt es da glaube ich auch nicht zu sagen...
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 <img align="left" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+</div>
 
-<div style="display: inline">
+<hr>
+
+<div style="display: flex; justify-content: center;">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
